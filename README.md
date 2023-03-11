@@ -1,4 +1,4 @@
-# Dropper_and_token_logger_FUD
+# Dropper and token logger_FUD
 ### info:
 Injects discord with a token logger sent to your webhook and drops your payload and places it in the startup folder.
 ## How to use:
